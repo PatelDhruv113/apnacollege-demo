@@ -1,3 +1,5 @@
 # apnacollege-demo
 
-Dhruv Patel
+This is my first Git Repository
+Author - Dhruv Patel
+
